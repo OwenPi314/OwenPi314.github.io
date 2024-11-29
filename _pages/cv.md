@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://OwenPi314.github.io/files/cv.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://OwenPi314.github.io/files/CV.pdf" type="application/pdf" width="600px" height="500px" />

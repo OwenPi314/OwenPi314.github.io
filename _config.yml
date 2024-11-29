@@ -12,7 +12,7 @@ title                    : "Zhiqiang (Owen) Pi"
 title_separator          : "-"
 name                     : &name "Zhiqiang (Owen) Pi"
 description              : &description "personal description"
-url                      : https://owenpi314.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://owenpi314.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OwenPi314/OwenPi314.github.io"
 
@@ -45,7 +45,6 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "OwenPi314"
-  github           : "OwenPi22"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

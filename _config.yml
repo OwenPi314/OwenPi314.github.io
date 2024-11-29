@@ -21,7 +21,7 @@ repository               : "OwenPi314/OwenPi314.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhiqiang (Owen) Pi"
   pronouns         : # example: "she/her"  
   bio              : "1st Year CS+LS PhD Student"

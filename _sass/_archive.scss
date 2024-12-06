@@ -87,12 +87,15 @@
 
 .list__item {
   @include breakpoint($medium) {
+    padding-right: inherit;
   }
 
   @include breakpoint($large) {
+    padding-right: inherit;
   }
 
   @include breakpoint($x-large) {
+    padding-right: inherit;
   }
 
   .page__meta {

@@ -42,11 +42,6 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  font-size: 0.875em; /* Adjust the font size as needed */
-  width: 100%; /* Adjust the width as needed */
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 
   a + a {
     opacity: 0.5;

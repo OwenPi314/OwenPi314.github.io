@@ -40,18 +40,13 @@
   }
 }
 
-.list__item .archive__item-title {
-  margin-top: 0.5em;
-  font-size: 1.5em;
-  margin-bottom: 0.25em;
-}
-
 .archive__item-title {
   font-family: $sans-serif-narrow;
-
+  
   a + a {
     opacity: 0.5;
   }
+  font-size: 1.5em !important;
 }
 
 /* remove border*/

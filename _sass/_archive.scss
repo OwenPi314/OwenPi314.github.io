@@ -42,11 +42,11 @@
 
 .archive__item-title {
   font-family: $sans-serif-narrow;
-  
+  font-size: 1.5em !important;
+
   a + a {
     opacity: 0.5;
   }
-  font-size: 1.5em !important;
 }
 
 /* remove border*/
@@ -101,6 +101,12 @@
 
   .page__meta {
     margin: 0 0 4px;
+  }
+
+  .archive__item-title {
+    margin-top: 0.5em;
+    margin-bottom: 0.25em;
+    font-size: 1.5em !important;
   }
 }
 
